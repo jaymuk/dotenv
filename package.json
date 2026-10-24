@@ -44,7 +44,7 @@
   "readmeFilename": "README.md",
   "license": "BSD-2-Clause",
   "devDependencies": {
-    "@definitelytyped/dtslint": "^0.0.133",
+    "@definitelytyped/dtslint": "^0.2.49",
     "@types/node": "^18.11.3",
     "decache": "^4.6.1",
     "sinon": "^14.0.1",
@@ -52,7 +52,7 @@
     "standard-markdown": "^7.1.0",
     "standard-version": "^9.5.0",
     "tap": "^16.3.0",
-    "tar": "^6.1.11",
+    "tar": "^7.5.22",
     "typescript": "^4.8.4"
   },
   "engines": {
